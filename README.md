@@ -1,7 +1,7 @@
 # Delaunay
 Delaunay is a method of triangulation
 
-This program is based on qt 5.6
+This program is based on qt 5.6/C++
 
 # result
 <p align="center">
