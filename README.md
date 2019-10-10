@@ -14,7 +14,7 @@ This program is based on qt 5.6
 <p align="center">
 	<img src="https://github.com/kaiwu119/Delaunay/blob/master/img/2.png" alt="result 2"  width="500" height="350">
 	<p align="center">
-		<em>result 1</em>
+		<em>result 2</em>
 	</p>
 </p>
 
