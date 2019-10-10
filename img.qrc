@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/blue.qss</file>
+        <file>img/4.png</file>
+    </qresource>
+</RCC>
